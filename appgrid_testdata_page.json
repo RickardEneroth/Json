@@ -1,0 +1,20 @@
+{
+  "entries": [
+    {
+      "_meta": {
+        "id": "STARTPAGE",
+        "typeId": "PAGE_TEMPLATE_01",
+        "type": "PAGE"
+      },
+      "title": "Startsida för web",
+      "containers": [
+        "STARTPAGE_CONTAINER_ID_1",
+        "STARTPAGE_CONTAINER_ID_2"
+      ],
+      "items": [
+      ],
+      "attributes": {
+      }
+    }
+  ]
+}

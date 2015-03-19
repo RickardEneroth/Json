@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "_meta": {
+        "id": "STARTPAGE_CONTAINER_ID_1",
+        "typeId": "CONTAINER_TEMPLATE_01",
+        "type": "CONTAINER"
+      },
+      "title": "Container 1 i Startsida för web",
+      "containers": [
+      ],
+      "items": [
+        "STARTPAGE_ITEM_ID_1",
+        "STARTPAGE_ITEM_ID_2"
+      ],
+      "attributes": {
+      }
+    },
+    {
+      "_meta": {
+        "id": "STARTPAGE_CONTAINER_ID_2",
+        "typeId": "CONTAINER_TEMPLATE_01",
+        "type": "CONTAINER"
+      },
+      "title": "Container 2 i Startsida för web",
+      "containers": [
+      ],
+      "items": [
+        "STARTPAGE_ITEM_ID_3",
+        "STARTPAGE_ITEM_ID_4"
+      ],
+      "attributes": {
+      }
+    }
+  ]
+}
