@@ -30,9 +30,9 @@
       "items": [
       ],
       "attributes": {
-        "tn_url": "http://img.tv4.se/convert/resize/350x197/shape/trimcut/source/http%3A%2F%2Fprima.tv4play.se%2Fmultimedia%2Fvman%2FVMan-P306%2FVMan-P3066192_QN.jpg",
-        "text_short": "Det brinner",
-        "text_long": "Det brinner jättemycket och ingen kan släcka!",
+        "tn_url": "https://img0.tv4cdn.se/?resize=100x56&amp;retina=true&amp;shape=cut&amp;source=http%3A%2F%2Fprima.tv4play.se%2Fmultimedia%2Fvman%2FVMan-P305%2FVMan-P3058352_YU.jpg",
+        "text_short": "Vid staketet",
+        "text_long": "Bönderna bråkar och vill inte ta hem skörden i tid",
         "asset_url": "https://www.tv4play.se/iframe/video/3066192"
       }
     },
@@ -48,9 +48,9 @@
       "items": [
       ],
       "attributes": {
-        "tn_url": "http://img.tv4.se/convert/resize/350x197/shape/trimcut/source/http%3A%2F%2Fprima.tv4play.se%2Fmultimedia%2Fvman%2FVMan-P306%2FVMan-P3066192_QN.jpg",
-        "text_short": "Det brinner",
-        "text_long": "Det brinner jättemycket och ingen kan släcka!",
+        "tn_url": "https://img0.tv4cdn.se/?resize=100x56&amp;retina=true&amp;shape=cut&amp;source=http%3A%2F%2Fprima.tv4play.se%2Fmultimedia%2Fvman%2FVMan-P305%2FVMan-P3058351_CC.jpg",
+        "text_short": "Hästen",
+        "text_long": "Hästen kommer till stor hjälp i skördearbetet på farmen",
         "asset_url": "https://www.tv4play.se/iframe/video/3066192"
       }
     },
@@ -66,10 +66,10 @@
       "items": [
       ],
       "attributes": {
-        "tn_url": "http://img.tv4.se/convert/resize/350x197/shape/trimcut/source/http%3A%2F%2Fprima.tv4play.se%2Fmultimedia%2Fvman%2FVMan-P306%2FVMan-P3066192_QN.jpg",
-        "text_short": "Det brinner",
-        "text_long": "Det brinner jättemycket och ingen kan släcka!",
-        "asset_url": "https://www.tv4play.se/iframe/video/3066192"
+        "tn_url": "https://img1.tv4cdn.se/?resize=100x56&amp;retina=true&amp;shape=cut&amp;source=http%3A%2F%2Fprima.tv4play.se%2Fmultimedia%2Fvman%2FVMan-P305%2FVMan-P3058350_TT.jpg",
+        "text_short": "Storbonden blir arg",
+        "text_long": "Efter en veckas bråk om maten ryter storbonden till och kräver ordning på torpet",
+        "asset_url": "https://www.tv4play.se/program/farmen?video_id=3058350"
       }
     }
   ]
